@@ -934,6 +934,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [[北京-苏瑞] - dancer小人](http://letyougo.github.io/dancer/)
 - [[上海-玄沐]- 个人网站](http://k.swao.cn/js/)
 - [[厦门-二哲]- 个人博客](http://www.meckodo.com/)
+- [haorooms博客](http://www.haorooms.com/)
 
 ####3. 国外大牛精品
 
@@ -983,6 +984,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [如何面试前端工程师](http://www.zhihu.com/question/19568008)
 - [前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)
 - [牛客网-笔试面经](http://www.nowcoder.com/discuss?type=2)
+- [面试总结](http://www.haorooms.com/post/qianduan_mianshi)
 
 ###十五. iconfont
 
@@ -1081,6 +1083,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 4. 生成二维码
 
     - [生成二维码](http://cli.im/)
+    - [二维码生成](http://www.haorooms.com/tools/erweima/)
     
 5. 浏览器同步
     - [puer](https://github.com/leeluolee/puer)
@@ -1093,6 +1096,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [PPT](https://github.com/ksky521/nodePPT)
     - [reveal](https://github.com/hakimel/reveal.js/)
     - [slippy](https://github.com/Seldaek/slippy)
+    - [slides](https://slides.com/)
 
 ###十七. 前端导航网站
 
@@ -1106,6 +1110,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [前端开发仓库 - 众多效果的收集地](http://code.ciaoca.com/) 
 - [前端资源导航](https://github.com/jnoodle/f2e-collect)
 - [F2E 前端导航](http://f2e.im/static/pages/nav/index.html)
+- [前端博客](http://www.haorooms.com/)
 
 ###十八. 常用CDN
 
@@ -1136,6 +1141,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
     - [使用git和github进行协同开发流程](http://livoras.com/post/28)
     - [动画方式练习git](http://onlywei.github.io/explain-git-with-d3/)
+    - [git常用命令](http://www.haorooms.com/post/git_common_ml)
 
 2. SVN
 

@@ -439,7 +439,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [小胡子哥 - 进阶正则表达式](http://div.io/topic/764?page=1)
 - [is.js](https://github.com/Cedriking/is.js/blob/master/is.js)
 - [正则在线测试](http://regexper.com/)
-- []()
+- [js正则表达式常用函数方法及简单应用](http://www.haorooms.com/post/js_RegExp_fn_use)
 
 ####22. ionic
 
@@ -622,6 +622,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [一个风格多样的日历](https://github.com/glad/glDatePicker)
     - [弹出层式的全日历](http://amsul.ca/pickadate.js/date/)
     - [jquery双日历](http://www.daterangepicker.com/)
+    - [比较好用的日历插件](http://www.haorooms.com/post/jquery_date_plus)
 
 2. 移动
 
@@ -1004,6 +1005,7 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
     - [SublimeText](https://github.com/jikeytang/sublime-text)
     - [Atom](https://atom.io/)
     - [visual studio code](https://code.visualstudio.com/)
+    - []
 
 2. Chrome, Firebug, Filddle 调试
 
